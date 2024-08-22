@@ -1,0 +1,192 @@
+com/example/foodapp/Interface/ItemClickListner.java
+ com.example.foodapp.Interface.ItemClickListner
+com/example/foodapp/profilemodel.java
+ com.example.foodapp.profilemodel
+com/example/foodapp/model.java
+ com.example.foodapp.model
+com/example/foodapp/BuildConfig.java
+ com.example.foodapp.BuildConfig
+com/example/foodapp/Model/Products.java
+ com.example.foodapp.Model.Products
+com/example/foodapp/Prevalent/Prevalent.java
+ com.example.foodapp.Prevalent.Prevalent
+com/example/foodapp/Model/Users.java
+ com.example.foodapp.Model.Users
+com/example/foodapp/Model/AdminOrders.java
+ com.example.foodapp.Model.AdminOrders
+com/example/foodapp/Model/Cart.java
+ com.example.foodapp.Model.Cart
+com/example/foodapp/AdminLogin.java
+ com.example.foodapp.AdminLogin
+ com.example.foodapp.AdminLogin$1
+ com.example.foodapp.AdminLogin$2
+com/example/foodapp/databinding/ProductItemsLayoutBinding.java
+ com.example.foodapp.databinding.ProductItemsLayoutBinding
+com/example/foodapp/databinding/ActivityCartBinding.java
+ com.example.foodapp.databinding.ActivityCartBinding
+com/example/foodapp/databinding/AdminMainBinding.java
+ com.example.foodapp.databinding.AdminMainBinding
+com/example/foodapp/databinding/ActivityAdddataBinding.java
+ com.example.foodapp.databinding.ActivityAdddataBinding
+com/example/foodapp/databinding/ProfileMainBinding.java
+ com.example.foodapp.databinding.ProfileMainBinding
+com/example/foodapp/AdminRegister.java
+ com.example.foodapp.AdminRegister
+ com.example.foodapp.AdminRegister$1
+ com.example.foodapp.AdminRegister$2
+ com.example.foodapp.AdminRegister$2$1
+com/example/foodapp/databinding/ActivityHomeBinding.java
+ com.example.foodapp.databinding.ActivityHomeBinding
+com/example/foodapp/databinding/ActivityAdminNewOrdersBinding.java
+ com.example.foodapp.databinding.ActivityAdminNewOrdersBinding
+com/example/foodapp/AdminUserProductsActivity.java
+ com.example.foodapp.AdminUserProductsActivity
+ com.example.foodapp.AdminUserProductsActivity$1
+com/example/foodapp/databinding/AdminLoginBinding.java
+ com.example.foodapp.databinding.AdminLoginBinding
+com/example/foodapp/databinding/ActivityRegisterBinding.java
+ com.example.foodapp.databinding.ActivityRegisterBinding
+com/example/foodapp/LoginActivity.java
+ com.example.foodapp.LoginActivity
+ com.example.foodapp.LoginActivity$1
+ com.example.foodapp.LoginActivity$2
+com/example/foodapp/databinding/AppBarHomeBinding.java
+ com.example.foodapp.databinding.AppBarHomeBinding
+com/example/foodapp/databinding/ProfilesinglerowBinding.java
+ com.example.foodapp.databinding.ProfilesinglerowBinding
+com/example/foodapp/HomeActivity.java
+ com.example.foodapp.HomeActivity
+ com.example.foodapp.HomeActivity$1
+ com.example.foodapp.HomeActivity$2
+ com.example.foodapp.HomeActivity$2$1
+com/example/foodapp/adddata.java
+ com.example.foodapp.adddata
+ com.example.foodapp.adddata$1
+ com.example.foodapp.adddata$2
+ com.example.foodapp.adddata$3
+ com.example.foodapp.adddata$4
+com/example/foodapp/databinding/ActivityMain1Binding.java
+ com.example.foodapp.databinding.ActivityMain1Binding
+com/example/foodapp/OrdersActivity.java
+ com.example.foodapp.OrdersActivity
+ com.example.foodapp.OrdersActivity$1
+ com.example.foodapp.OrdersActivity$1$1
+ com.example.foodapp.OrdersActivity$1$2
+ com.example.foodapp.OrdersActivity$1$2$1
+ com.example.foodapp.OrdersActivity$OrdersViewHol
+ com.example.foodapp.OrdersActivity$OrdersViewHolder
+com/example/foodapp/databinding/OrdersLayoutBinding.java
+ com.example.foodapp.databinding.OrdersLayoutBinding
+com/example/foodapp/ViewHolder/OrdersViewHolder.java
+ com.example.foodapp.ViewHolder.OrdersViewHolder
+com/example/foodapp/ProductDetailsActivity.java
+ com.example.foodapp.ProductDetailsActivity
+ com.example.foodapp.ProductDetailsActivity$1
+ com.example.foodapp.ProductDetailsActivity$2
+ com.example.foodapp.ProductDetailsActivity$2$1
+ com.example.foodapp.ProductDetailsActivity$3
+com/example/foodapp/myadapter.java
+ com.example.foodapp.myadapter
+ com.example.foodapp.myadapter$1
+ com.example.foodapp.myadapter$1$1
+ com.example.foodapp.myadapter$1$1$1
+ com.example.foodapp.myadapter$1$1$2
+ com.example.foodapp.myadapter$2
+ com.example.foodapp.myadapter$2$1
+ com.example.foodapp.myadapter$2$2
+ com.example.foodapp.myadapter$myviewholder
+com/example/foodapp/databinding/DialogcontentBinding.java
+ com.example.foodapp.databinding.DialogcontentBinding
+com/example/foodapp/databinding/AdminRegisterBinding.java
+ com.example.foodapp.databinding.AdminRegisterBinding
+com/example/foodapp/databinding/ActivityConfirmFinalOrderBinding.java
+ com.example.foodapp.databinding.ActivityConfirmFinalOrderBinding
+com/example/foodapp/ViewHolder/ProductViewHolder.java
+ com.example.foodapp.ViewHolder.ProductViewHolder
+com/example/foodapp/databinding/DetailBinding.java
+ com.example.foodapp.databinding.DetailBinding
+com/example/foodapp/databinding/ProfileAdddataBinding.java
+ com.example.foodapp.databinding.ProfileAdddataBinding
+com/example/foodapp/AdminMain.java
+ com.example.foodapp.AdminMain
+ com.example.foodapp.AdminMain$1
+ com.example.foodapp.AdminMain$2
+com/example/foodapp/MainActivity.java
+ com.example.foodapp.MainActivity
+ com.example.foodapp.MainActivity$1
+ com.example.foodapp.MainActivity$2
+ com.example.foodapp.MainActivity$3
+com/example/foodapp/profilemain.java
+ com.example.foodapp.profilemain
+ com.example.foodapp.profilemain$1
+ com.example.foodapp.profilemain$2
+com/example/foodapp/RegisterActivity.java
+ com.example.foodapp.RegisterActivity
+ com.example.foodapp.RegisterActivity$1
+ com.example.foodapp.RegisterActivity$2
+ com.example.foodapp.RegisterActivity$2$1
+com/example/foodapp/databinding/ProfiledialogcontentBinding.java
+ com.example.foodapp.databinding.ProfiledialogcontentBinding
+com/example/foodapp/databinding/ActivityAdminUserProductsBinding.java
+ com.example.foodapp.databinding.ActivityAdminUserProductsBinding
+com/example/foodapp/databinding/CartItemLayoutBinding.java
+ com.example.foodapp.databinding.CartItemLayoutBinding
+com/example/foodapp/databinding/ActivityLoginBinding.java
+ com.example.foodapp.databinding.ActivityLoginBinding
+com/example/foodapp/ViewHolder/CartViewHolder.java
+ com.example.foodapp.ViewHolder.CartViewHolder
+com/example/foodapp/profileadapter.java
+ com.example.foodapp.profileadapter
+ com.example.foodapp.profileadapter$1
+ com.example.foodapp.profileadapter$1$1
+ com.example.foodapp.profileadapter$1$1$1
+ com.example.foodapp.profileadapter$1$1$2
+ com.example.foodapp.profileadapter$2
+ com.example.foodapp.profileadapter$2$1
+ com.example.foodapp.profileadapter$2$2
+ com.example.foodapp.profileadapter$myviewholder
+com/example/foodapp/profileadd.java
+ com.example.foodapp.profileadd
+ com.example.foodapp.profileadd$1
+ com.example.foodapp.profileadd$2
+ com.example.foodapp.profileadd$3
+ com.example.foodapp.profileadd$4
+com/example/foodapp/databinding/SinglerowBinding.java
+ com.example.foodapp.databinding.SinglerowBinding
+com/example/foodapp/databinding/ActivityProductDetailsBinding.java
+ com.example.foodapp.databinding.ActivityProductDetailsBinding
+com/example/foodapp/databinding/ContentHomeBinding.java
+ com.example.foodapp.databinding.ContentHomeBinding
+com/example/foodapp/PaymentActivity.java
+ com.example.foodapp.PaymentActivity
+ com.example.foodapp.PaymentActivity$1
+com/example/foodapp/databinding/NavHeaderHomeBinding.java
+ com.example.foodapp.databinding.NavHeaderHomeBinding
+com/example/foodapp/databinding/ActivityMainBinding.java
+ com.example.foodapp.databinding.ActivityMainBinding
+com/example/foodapp/databinding/ActivityPaymentBinding.java
+ com.example.foodapp.databinding.ActivityPaymentBinding
+com/example/foodapp/CartActivity.java
+ com.example.foodapp.CartActivity
+ com.example.foodapp.CartActivity$1
+ com.example.foodapp.CartActivity$2
+ com.example.foodapp.CartActivity$2$1
+ com.example.foodapp.CartActivity$2$1$1
+ com.example.foodapp.CartActivity$2$1$1$1
+com/example/foodapp/MainActivity1.java
+ com.example.foodapp.MainActivity1
+ com.example.foodapp.MainActivity1$1
+ com.example.foodapp.MainActivity1$2
+com/example/foodapp/Model/Details.java
+ com.example.foodapp.Model.Details
+com/example/foodapp/DetailsActivity.java
+ com.example.foodapp.DetailsActivity
+ com.example.foodapp.DetailsActivity$1
+ com.example.foodapp.DetailsActivity$2
+ com.example.foodapp.DetailsActivity$3
+com/example/foodapp/ConfirmFinalOrderActivity.java
+ com.example.foodapp.ConfirmFinalOrderActivity
+ com.example.foodapp.ConfirmFinalOrderActivity$1
+ com.example.foodapp.ConfirmFinalOrderActivity$2
+ com.example.foodapp.ConfirmFinalOrderActivity$3
+ com.example.foodapp.ConfirmFinalOrderActivity$3$1
