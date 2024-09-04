@@ -4,7 +4,7 @@ An order is typically made either by telephone, through the supplier's website o
 App developed using Java and Android Studio. This app allows users to browse restaurants, view menus, place orders, and track deliveries in real time. Key features include:
   
 🛒 Browse and Order: Discover nearby restaurants, view their menus, and place orders with ease. 
-🚀 Real-Time Tracking: Track your order status and delivery in real-time.  
+🚀 Real-Time Tracking: Track your order status and delivery in real-time.
 📱 User-Friendly Interface: Designed with a clean and intuitive UI for a seamless user experience.
 🔒 Secure Payments: Integrated secure payment options for a hassle-free transaction process.
 📝 Order History: View your past orders and reorder your favorite meals.
