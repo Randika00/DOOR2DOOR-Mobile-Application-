@@ -1,4 +1,4 @@
-## DOOR2DOOR-Mobile-Application- 🍔
+## FoodieFly-Mobile-Application- 🍔
 
 An order is typically made either by telephone, through the supplier's website or mobile app, or through a third party food ordering service.A comprehensive Food Delivery
 App developed using Java and Android Studio. This app allows users to browse restaurants, view menus, place orders, and track deliveries in real time. Key features include:
